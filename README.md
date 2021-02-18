@@ -26,7 +26,8 @@
 **Link**
 [google](https://www.google.com/?&bih=969&biw=1920&hl=en)
 
-**Table**
+**Tables**
+
 Name|Branch|college
 |---|---|---|
 |Dinesh|cse|vrsec|
