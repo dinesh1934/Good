@@ -27,7 +27,7 @@
 [google](https://www.google.com/?&bih=969&biw=1920&hl=en)
 
 **Table**
-|Name|Branch|college|
+Name|Branch|college
 |---|---|---|
 |Dinesh|cse|vrsec|
 |sameer|no sec|vrsec|
